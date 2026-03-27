@@ -1,0 +1,13 @@
+Prompt 1:
+"How to use Promise.all in Node.js to make parallel API calls?"
+
+Prompt 2:
+"How to handle API errors in async/await without breaking execution?"
+
+Prompt 3:
+"Given weather conditions, decide if delivery should be delayed and generate a customer-friendly message."
+
+Explanation:
+Used Promise.all for concurrency.
+Used try-catch for resilience.
+Used Groq LLM (llama-3.3-70b-versatile) for decision-making and messaging.
